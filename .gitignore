@@ -10,10 +10,11 @@
 
 #Local files
 README.md
-REQUIREMENTS.txt
+REQUIREMENTS.md
 SUBMISSION.md
 DOCKER_COMPOSE_HINTS.md
 EVALUATION.md
 quickstart.sh
+sample-data/
 .env
 **/node_modules
